@@ -1,0 +1,5 @@
+/home/mysegnet/kaggle/test/train_1000.jpg,/home/mysegnet/kaggle/test/train_1000.png
+/home/mysegnet/kaggle/test/train_1030.jpg,/home/mysegnet/kaggle/test/train_1030.png
+/home/mysegnet/kaggle/test/train_1059.jpg,/home/mysegnet/kaggle/test/train_1059.png
+/home/mysegnet/kaggle/test/train_1138.jpg,/home/mysegnet/kaggle/test/train_1138.png
+/home/mysegnet/kaggle/test/train_947.jpg,/home/mysegnet/kaggle/test/train_947.png
